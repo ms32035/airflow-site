@@ -189,6 +189,8 @@ Apache Airflow releases the [Official Apache Airflow Community Chart](https://ai
 
 [simple-dag-editor](https://github.com/ohadmata/simple-dag-editor) - Zero configuration Airflow tool that let you manage your DAG files.
 
+[Spade](https://github.com/crugroup/spade) - Business friendly Airflow UI and file uploader.
+
 [Viewflow](https://github.com/datacamp/viewflow) - An Airflow-based framework that allows data scientists to create data models without writing Airflow code.
 
 [whirl](https://github.com/godatadriven/whirl) - Fast iterative local development and testing of Apache Airflow workflows.
